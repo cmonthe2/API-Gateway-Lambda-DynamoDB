@@ -3,7 +3,7 @@ variable "region" {
 }
 
 variable "lambda_function_name" {
-  default = "UserHandlerFunction"
+  default = "UserFunctionmonthe"
 }
 
 variable "dynamodb_table_name" {
